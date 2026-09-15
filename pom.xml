@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ch.toto.sandobox</groupId>
-    <artifactId>camunda-sandbox</artifactId>
+    <artifactId>sandbox-camunda</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>camunda-sandbox</name>
-    <description>camunda-sandbox</description>
+    <name>sandbox-camunda</name>
+    <description>sandbox-camunda</description>
     <url/>
     <licenses>
         <license/>

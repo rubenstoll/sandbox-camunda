@@ -13,8 +13,8 @@ Use the Maven wrapper (`./mvnw`), not a system-installed Maven.
 - Build: `./mvnw clean install`
 - Compile only: `./mvnw compile`
 - Run all tests: `./mvnw test`
-- Run a single test class: `./mvnw test -Dtest=ProcessOrderApplicationTests`
-- Run a single test method: `./mvnw test -Dtest=ProcessOrderApplicationTests#shouldCompleteProcessInstance`
+- Run a single test class: `./mvnw test -Dtest=CamundaSandboxApplicationTests`
+- Run a single test method: `./mvnw test -Dtest=CamundaSandboxApplicationTests#shouldCompleteProcessInstance`
 - Run the app: `./mvnw spring-boot:run` (main class: `CamundaSandboxApplication`)
 
 Requires Java 25 (`java.version` in pom.xml).
