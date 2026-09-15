@@ -147,7 +147,7 @@
                             <outputDirectory>${project.build.testOutputDirectory}</outputDirectory>
                             <resources>
                                 <resource>
-                                    <directory>${project.basedir}/../bpmn</directory>
+                                    <directory>${project.basedir}/src/main/resources/bpmn</directory>
                                     <includes>
                                         <include>*.bpmn</include>
                                     </includes>
